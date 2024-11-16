@@ -1,0 +1,2 @@
+../Core/Src/draw_clock.c:24:6:clock_pixel_init	1
+../Core/Src/draw_clock.c:33:6:update_clock_pixel	4
